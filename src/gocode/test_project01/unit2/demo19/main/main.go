@@ -19,8 +19,8 @@ func main() {
 	// c := cal(a, b)
 	// fmt.Println("c=", c)
 
-	d := 10
-	e := 20
+	d := 10.0
+	e := 20.0
 	f := cal2(d, e)
 	fmt.Println("f=", f)
 }
