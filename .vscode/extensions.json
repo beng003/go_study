@@ -3,6 +3,7 @@
         "aldijav.golangwithdidi",
         "batisteo.vscode-django",
         "formulahendry.code-runner",
-        "golang.go"
+        "golang.go",
+        "ms-vscode-remote.remote-containers"
     ]
 }
